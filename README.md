@@ -1,2 +1,2 @@
 # rsschool-cv
-Deployed CV <https://github.com/ragnarLothbrock-77/rsschool-cv/blob/gh-pages/cv.md>
+Deployed CV <https://ragnarLothbrock-77.github.io/rsschool-cv>
