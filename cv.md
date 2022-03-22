@@ -2,6 +2,7 @@
 ***
 
 # Semen Miroshnichenko 
+![Sam Miller](/assets/images/photo.JPG)
 ***
 
 ## **Contacts Information**
@@ -82,3 +83,5 @@ I have no commercial development experience yet. But I'v made a few websites for
 ***
 * Russian - Native
 * English - Between Intermediate B1 and Upper Intermediate B2 (According to the CEFR) 
+
+![EFSet Result](/assets/images/EFSet-Result.png)
