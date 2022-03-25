@@ -73,7 +73,7 @@ I have no commercial development experience yet. But I'v made a few websites for
 ***
 * Brad Traversy Media Courses - React, Redux, NodeJS (done)
 * Vladilen Minin Course - Javascript excel clone project (done)
-* Anton Lerichev Udemy Courses - TypesScript, NodeJS (in progress)
+* Anton Larichev Udemy Courses - TypesScript, NodeJS (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 * A lot of self educate courses and video lectures (done) 
 ***
